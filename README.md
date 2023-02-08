@@ -13,3 +13,4 @@
 - 😄 Pronouns: HE
 - ⚡ Fun fact: I am big fan of anime movies, my favourites ones are Naruto shippudem, When I got reincarneted as a slime, Demon Slayers, Kuroko's Basket, Bersek!
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AngeClementAkazan)](https://git.io/streak-stats)
