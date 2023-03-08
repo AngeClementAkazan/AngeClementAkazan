@@ -4,7 +4,7 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on Physics Informed Neural Network for Electron-Transfer Model
+- 🔭 I’m currently working on classification using crop satellite machine learning methods
 - 🌱 I’m currently learning Machine Learning, Deep Learning, Data engineering, Frontend Development 
 - 👯 I’m looking to collaborate on Machine Learning project
 - 🤔 I’m looking for help with HTML, CSS and JS
