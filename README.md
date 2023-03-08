@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on Machine Learning project
 - 🤔 I’m looking for help with HTML, CSS and JS
 - 💬 Ask me about my motivation, research direction and dreams
-- 📫 How to reach me: aakazan@quantumleapafrica.org
+- 📫 How to reach me: angeclement.akazan@aims.ac.rw / aakazan@quantumleapafrica.org
 - 😄 Pronouns: HE
 - ⚡ Fun fact: I am big fan of anime movies, my favourites ones are Naruto shippudem, When I got reincarneted as a slime, Demon Slayers, Kuroko's Basket, Bersek!
 
