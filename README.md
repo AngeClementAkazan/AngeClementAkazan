@@ -3,7 +3,7 @@
 <!-- **AngeClementAkazan/AngeClementAkazan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- Here are some ideas to get you started: -->
-- 🔭 I’m currently working on Diffusion Models with Professor Ioannis Mitliagkas (http://mitliagkas.github.io)
+- 🔭 I’m currently working on Diffusion Models with Professor Ioannis Mitliagkas (http://mitliagkas.github.io) and Alexia Jolie-Cooeur Martineau (https://ajolicoeur.ca)
 - 🔭 I’m currently working on Generative Adversarial Networks Based Adversarial Knowledge Distillation 
 - 🌱 I’m currently learning Machine Learning, Deep Learning, Data engineering, Frontend Development 
 - 👯 I’m looking to collaborate on Machine Learning project
