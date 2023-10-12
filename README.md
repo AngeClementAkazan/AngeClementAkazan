@@ -3,11 +3,11 @@
 <!-- **AngeClementAkazan/AngeClementAkazan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- Here are some ideas to get you started: -->
-
-- 🔭 I’m currently working on Crop Classification with Machine Learning methods Using Farms Satellite Images 
+- 🔭 I’m currently working on Diffusion Models with Professor Ioannis Mitliagkas (http://mitliagkas.github.io)
+- 🔭 I’m currently working on Generative Adversarial Networks Based Adversarial Knowledge Distillation 
 - 🌱 I’m currently learning Machine Learning, Deep Learning, Data engineering, Frontend Development 
 - 👯 I’m looking to collaborate on Machine Learning project
-- 🤔 I’m looking for help with HTML, CSS and JS
+- 🤔 I’m looking for help with Cloud Computing
 - 💬 Ask me about my motivation, research direction and dreams
 - 📫 How to reach me: angeclement.akazan@aims.ac.rw / aakazan@quantumleapafrica.org
 - 😄 Pronouns: HE
