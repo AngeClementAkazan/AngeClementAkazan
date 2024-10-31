@@ -3,12 +3,11 @@
 <!-- **AngeClementAkazan/AngeClementAkazan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- Here are some ideas to get you started: -->
-- 🌱 I have started a PhD in mathematics at the [University of Kwazulu Natal](https://ukzn.ac.za)
-- 🔭  I am working on robustness in deep learning 
+- 🌱 I have recently [Sept 2024] started a PhD in mathematics at the [University of Kwazulu Natal](https://ukzn.ac.za) funded by the [African Institute for Mathematical Sciences](https://aims.ac.rw) and  I am working on model robustness in deep learning.
 - 👯 I’m looking to collaborate on a Machine Learning project related on model robustness and generative modeling.
-- 🤔 I’m looking for help with constrained optimization for deep learning
-- 💬 Ask me about my motivation, research direction and dreams
-- 📫 How to reach me: angeclement.akazan@aims.ac.rw / aakazan@quantumleapafrica.org
+- 🤔 I’m looking for help with constrained optimization for deep learning.
+- 💬 Ask me about my motivation, research direction and dreams.
+- 📫 How to reach me: angeclement.akazan@aims.ac.rw / aakazan@aimsric.org / ange-clement.akazan@mila.quebec
 - 😄 Pronouns: HE
 - ⚡ Fun fact: I am big fan of anime movies, my favourites ones are Naruto shippudem, When I got reincarneted as a slime, Demon Slayers, Kuroko's Basket, Bersek!
 ### Completed Project
