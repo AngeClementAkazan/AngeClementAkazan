@@ -1,5 +1,5 @@
 ### Hi there 👋
-✨This is Ange-Clement Akazan✨
+✨This is Ange-Clément Akazan✨
 <!-- **AngeClementAkazan/AngeClementAkazan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- Here are some ideas to get you started: -->
