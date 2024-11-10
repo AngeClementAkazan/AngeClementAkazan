@@ -15,10 +15,10 @@ In September 2023, I was selected for a 4-month research internship funded by IV
   
 - MSc project at [AIMS Rwanda](https://aims.ac.rw) on "[Deep Learning Method for Weather Prediction](https://www.researchgate.net/publication/376809738_Deep_Learning_Methods_for_Weather_Prediction)" [March-Jun 2022]
 
-- MSc project at the [University Félix Houphouët Boigny](https://w.univ-fhb.edu.ci) on [Random Forest and Applications](https://www.researchgate.net/publication/385662227_Forets_Aleatoires_et_Applications) )(In French) [July-December 2021]
+- MSc project at the [University Félix Houphouët Boigny](https://w.univ-fhb.edu.ci) on [Random Forest and Applications](https://www.researchgate.net/publication/385662227_Forets_Aleatoires_et_Applications) (Projet écrit en Français) [July-December 2021]
   
 ### Curriculum Vitae
-You can view my CV Here [Ange-Clément CV](Ange_Clément_AKAZAN_CV.pdf)
+You can view my CV Here [Ange-Clément CV](https://github.com/AngeClementAkazan/AngeClementAkazan/blob/main/Ange_Clément_AKAZAN_CV.pdf)
 ### AB😎UT Ⓜ️E
 - 👯 I want to collaborate on a Machine Learning project related to model robustness and generative modeling.
 - 🤔 I’m looking for help with constrained optimization for deep learning.
