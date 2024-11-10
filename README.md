@@ -15,7 +15,7 @@
 - I have completed my MSc project [Deep Learning Method for Weather Prediction](https://www.researchgate.net/publication/376809738_Deep_Learning_Methods_for_Weather_Prediction)) [March-Jun 2022]
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AngeClementAkazan)](https://git.io/streak-stats)
 ### Curriculum Vitae
-You can view my CV Here [Ange-Clément CV](https://github.com/AngeClementAkazan/AngeClementAkazan/Ange_Clément_AKAZAN_CV.pdf)
+You can view my CV Here [Ange-Clément CV](https://github.com/AngeClementAkazan/AngeClementAkazan/blob/main/Ange_Clément_AKAZAN_CV.pdf)
 
 
 
