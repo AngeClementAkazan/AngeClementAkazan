@@ -1,5 +1,5 @@
 ### About me 🌱 
-I am  Ange-Clément Akazan, a PhD student in mathematics working on enhancing model robustness in deep learning using probabilistic-constrained optimization. I am registered at the [University of Kwazulu Natal](https://ukzn.ac.za), and my research is funded by the [AIMS Research and Innovation Centre]([https://aims.ac.rw](https://aims.ac.rw/about-the-research-centre/)).
+I am  Ange-Clément Akazan, a PhD student in mathematics working on enhancing model robustness in deep learning using probabilistic-constrained optimization. I am registered at the [University of Kwazulu Natal](https://ukzn.ac.za), and my research is funded by the [AIMS Research and Innovation Centre](https://aims.ac.rw/about-the-research-centre/).
 
 ### Biography
 
