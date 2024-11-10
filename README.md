@@ -13,7 +13,7 @@ In September 2023, I was selected for a 4-month research internship funded by IV
 ### Projects
 - 🔭 Research Internship work on [Heterogeneous Sequential Feature Forest Flow](https://arxiv.org/abs/2410.15516)  with  Ioannis Mitliagkas (http://mitliagkas.github.io) and Alexia Joliecoeur-Martineau (https://ajolicoeur.ca) [September 2023- to date]
   
-- MSc project at [AIMS Rwanda](https://aims.ac.rw) on "[Deep Learning Method for Weather Prediction](https://www.researchgate.net/publication/376809738_Deep_Learning_Methods_for_Weather_Prediction))" [March-Jun 2022]
+- MSc project at [AIMS Rwanda](https://aims.ac.rw) on "[Deep Learning Method for Weather Prediction](https://www.researchgate.net/publication/376809738_Deep_Learning_Methods_for_Weather_Prediction)" [March-Jun 2022]
 
 - MSc project at the [University Félix Houphouët Boigny](https://w.univ-fhb.edu.ci) on [Random Forest and Applications](https://www.researchgate.net/publication/385662227_Forets_Aleatoires_et_Applications) )(In French) [July-December 2021]
   
