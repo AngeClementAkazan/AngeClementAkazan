@@ -11,7 +11,7 @@ In September 2023, I was selected for a 4-month research internship funded by IV
 <!-- **AngeClementAkazan/AngeClementAkazan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ### Projects
-- 🔭 Research Internship work on [Heterogeneous Sequential Feature Forest Flow](https://arxiv.org/abs/2410.15516)  with  Ioannis Mitliagkas (http://mitliagkas.github.io) and Alexia Joliecoeur-Martineau (https://ajolicoeur.ca) [September 2023- to date]
+- 🔭 Research Internship work on [Heterogeneous Sequential Feature Forest Flow](https://arxiv.org/abs/2410.15516)  with  Ioannis Mitliagkas (http://mitliagkas.github.io) and Alexia Jolicoeur-Martineau (https://ajolicoeur.ca) [September 2023- to date]
   
 - MSc project at [AIMS Rwanda](https://aims.ac.rw) on "[Deep Learning Method for Weather Prediction](https://www.researchgate.net/publication/376809738_Deep_Learning_Methods_for_Weather_Prediction)" [March-June 2022]
 
